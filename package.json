@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/sarahbroton/SVG-Logo-Maker-Node.js/issues"
   },
-  "homepage": "https://github.com/sarahbroton/SVG-Logo-Maker-Node.js#readme"
+  "homepage": "https://github.com/sarahbroton/SVG-Logo-Maker-Node.js#readme",
+  "devDependencies": {
+    "jest": "^29.6.1"
+  }
 }
