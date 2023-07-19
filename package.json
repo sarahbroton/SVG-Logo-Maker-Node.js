@@ -1,0 +1,24 @@
+{
+  "name": "svg-logo-maker-node",
+  "version": "1.0.0",
+  "description": "* using Object Oriented Programming",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarahbroton/SVG-Logo-Maker-Node.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarahbroton/SVG-Logo-Maker-Node.js/issues"
+  },
+  "homepage": "https://github.com/sarahbroton/SVG-Logo-Maker-Node.js#readme"
+}
