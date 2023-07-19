@@ -5,7 +5,7 @@
 
 ## Description
 
-Have fun using this CLI for a quick-and-easy Logo Maker and brand yourself.  This app will allow you choices for a pre-determined shape (circle, triangle, square), that shape's color (using a keyword or hexadecimal number), and up to three characters of your choice.  Image rendered via SVG. 
+Have fun using this CLI for a quick-and-easy Logo Maker. Brand yourself.  This app will allow you choices for the shape (circle, triangle, square), the shape's color (using a keyword or hexadecimal number), and special three characters of your choice.  Image rendered SVG. 
 
 
 
