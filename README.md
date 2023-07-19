@@ -1,11 +1,11 @@
-# SVG Logo Maker 
+# SVG Logo Maker with Node.js
     * using Object Oriented Programming
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
 
-Have fun using this CLI app for a quick-and-easy Logo Maker. Brand yourself.  This app will allow you choices for the shape (circle, triangle, square), the shape's color (using a keyword or hexadecimal number), and special three characters of your choice.  Image rendered SVG. 
+Have fun using this CLI for a quick-and-easy Logo Maker. Brand yourself.  This app will allow you choices for the shape (circle, triangle, square), the shape's color (using a keyword or hexadecimal number), and special three characters of your choice.  Image rendered SVG. 
 
 
 
